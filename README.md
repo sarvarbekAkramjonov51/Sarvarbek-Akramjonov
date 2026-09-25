@@ -1,77 +1,137 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Jahongir+Odilov;Full+Stack+Developer;From+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;Welcome+to+my+profile+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=200&section=header&text=Sarvarbek%20Akramjonov&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20from%20Uzbekistan&descAlignY=58&descSize=18" width="100%"/>
 
-![Profile views](https://komarev.com/ghpvc/?username=odilov601&color=00F7FF&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/odilov601?label=Followers&style=flat-square&color=00F7FF)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sarvarbek+Akramjonov;Full+Stack+Developer+%F0%9F%92%BB;Learning+Advanced+System+Design;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=sarvarbekAkramjonov51&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/sarvarbekAkramjonov51?label=FOLLOWERS&style=for-the-badge&color=00F7FF" />
 
 </div>
 
----
+<br>
 
-### 👨‍💻 About Me
+## 📌 1. About Me
 
-- 🚀 Working on **Full Stack** projects
-- 📚 Learning **Advanced System Design**
+- 🔭 Currently working on **Full Stack** projects
+- 🌱 Learning **Advanced System Design**
 - 🧪 Interested in **Chemistry**
-- 🌱 Currently exploring React, TypeScript & Node.js
-- 📂 All projects: [github.com/odilov601](https://github.com/odilov601)
-- 📫 Contact me: edillovjahongir2007@gmail.com
+- 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
+- 📫 Reach me at: **your-email@gmail.com**
+- ⚡ Fun fact: I love turning ideas into working products
 
 ---
 
-### 🌐 Connect with me
+## 🚀 2. What I'm Doing
 
-<p>
-<a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
-<a href="https://linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-<a href="https://github.com/odilov601" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-<a href="https://facebook.com/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40" /></a>
-<a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
-</p>
-
-> ⚠️ Yuqoridagi havolalarni o'zingizning haqiqiy profil manzillaringiz bilan almashtiring.
+| | |
+|---|---|
+| 🔭 | Building full‑stack web applications |
+| 🌱 | Deepening my knowledge of system design |
+| 👯 | Open to collaborating on interesting projects |
+| 🤝 | Open to full‑stack / frontend opportunities |
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ 3. Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,redux,tailwind,bootstrap,sass,figma,nodejs,python,docker,mongodb,git" />
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,redux,tailwind,bootstrap,sass" />
+
+**Backend & Tools**
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,docker,mongodb,mysql,git,figma,postman" />
+
+---
+
+## 📂 4. Featured Projects
+
+<p align="center">
+<a href="https://github.com/sarvarbekAkramjonov51">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sarvarbekAkramjonov51&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+</a>
+</p>
+
+> ✏️ `REPO_NAME` o'rniga eng yaxshi loyihangiz nomini yozing (bir nechta pin card qo'shsangiz bo'ladi).
+
+---
+
+## 📊 5. GitHub Stats
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sarvarbekAkramjonov51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarbekAkramjonov51&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🔥 6. Streak Stats
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=odilov601&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odilov601&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=odilov601&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=odilov601&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvarbekAkramjonov51&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </p>
 
 ---
 
-### 🐍 Snake Game (Contribution Graph Animation)
+## 📈 7. Contribution Activity Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/odilov601/odilov601/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarvarbekAkramjonov51&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
 </p>
 
-> 🕹️ Bu — commit tarixingiz ustida o'ynaydigan kichik "ilon" animatsiyasi. Uni ishga tushirish uchun quyidagi `.github/workflows/snake.yml` faylini o'z profil repozitoriyangizga (`odilov601/odilov601`) qo'shing — GitHub Actions avtomatik ravishda har kuni yangilab turadi.
+---
+
+## 🏆 8. GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sarvarbekAkramjonov51&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
+## 🐍 9. Snake Game (Contribution Grid Animation)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/sarvarbekAkramjonov51/sarvarbekAkramjonov51/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> 🕹️ Bu — commit tarixingiz ustida harakatlanuvchi "ilon" animatsiyasi. Ishlashi uchun quyidagi qadamlarni bajaring:
+> 1. `sarvarbekAkramjonov51/sarvarbekAkramjonov51` nomida **maxsus profil repo** yarating (username bilan bir xil nomda).
+> 2. Shu repoga ushbu `README.md` va `.github/workflows/snake.yml` fayllarini joylang.
+> 3. Repo **Settings → Actions → General → Workflow permissions** bo'limida **"Read and write permissions"**ni yoqing.
+> 4. **Actions** tabidan workflow'ni bir marta qo'lda ishga tushiring (**Run workflow**).
+> 5. Bir necha daqiqadan so'ng ilon animatsiyasi shu yerda ko'rinadi.
+
+---
+
+## 🌐 10. Connect with Me
+
+<p align="center">
+<a href="https://github.com/sarvarbekAkramjonov51" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" width="45" /></a>
+</p>
+
+> ✏️ `#` belgilarini o'zingizning haqiqiy LinkedIn / Twitter / Instagram / Telegram havolalaringiz bilan almashtiring.
+
+---
+
+## 💬 11. Support
+
+<p align="center">
+<a href="https://github.com/sarvarbekAkramjonov51"><img src="https://img.shields.io/badge/Follow-@sarvarbekAkramjonov51-00F7FF?style=for-the-badge&logo=github" /></a>
+</p>
+
+Agar loyihalarim sizga foydali bo'lsa — ⭐️ qo'yishni unutmang!
 
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=100&section=footer" width="100%"/>
 
-⭐️ From [odilov601](https://github.com/odilov601)
+**© 2026 Sarvarbek Akramjonov**
 
 </div>
